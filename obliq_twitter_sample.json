@@ -1,0 +1,260 @@
+{
+  "queries": [
+    {
+      "query_id": "q1",
+      "text": "find tweets expressing skepticism toward science without saying so explicitly"
+    }
+  ],
+  "documents": [
+    {
+      "doc_id": "d8",
+      "text": "Just had a great coffee at the new place downtown. The weather is so nice today! #blessed #8",
+      "is_golden": false
+    },
+    {
+      "doc_id": "d6",
+      "text": "Just had a great coffee at the new place downtown. The weather is so nice today! #blessed #6",
+      "is_golden": false
+    },
+    {
+      "doc_id": "d38",
+      "text": "Just had a great coffee at the new place downtown. The weather is so nice today! #blessed #38",
+      "is_golden": false
+    },
+    {
+      "doc_id": "d4",
+      "text": "Just had a great coffee at the new place downtown. The weather is so nice today! #blessed #4",
+      "is_golden": false
+    },
+    {
+      "doc_id": "d33",
+      "text": "Just had a great coffee at the new place downtown. The weather is so nice today! #blessed #33",
+      "is_golden": false
+    },
+    {
+      "doc_id": "d17",
+      "text": "Just had a great coffee at the new place downtown. The weather is so nice today! #blessed #17",
+      "is_golden": false
+    },
+    {
+      "doc_id": "d18",
+      "text": "Just had a great coffee at the new place downtown. The weather is so nice today! #blessed #18",
+      "is_golden": false
+    },
+    {
+      "doc_id": "d49",
+      "text": "Just had a great coffee at the new place downtown. The weather is so nice today! #blessed #49",
+      "is_golden": false
+    },
+    {
+      "doc_id": "d14",
+      "text": "Just had a great coffee at the new place downtown. The weather is so nice today! #blessed #14",
+      "is_golden": false
+    },
+    {
+      "doc_id": "d19",
+      "text": "Just had a great coffee at the new place downtown. The weather is so nice today! #blessed #19",
+      "is_golden": false
+    },
+    {
+      "doc_id": "d23",
+      "text": "Just had a great coffee at the new place downtown. The weather is so nice today! #blessed #23",
+      "is_golden": false
+    },
+    {
+      "doc_id": "d37",
+      "text": "Just had a great coffee at the new place downtown. The weather is so nice today! #blessed #37",
+      "is_golden": false
+    },
+    {
+      "doc_id": "d50",
+      "text": "Just had a great coffee at the new place downtown. The weather is so nice today! #blessed #50",
+      "is_golden": false
+    },
+    {
+      "doc_id": "d26",
+      "text": "Just had a great coffee at the new place downtown. The weather is so nice today! #blessed #26",
+      "is_golden": false
+    },
+    {
+      "doc_id": "d1",
+      "text": "I mean, if they were really sure about the climate models, they wouldn't keep changing the predictions every 5 years, right? Just makes you wonder what else they are 'sure' about.",
+      "is_golden": true
+    },
+    {
+      "doc_id": "d35",
+      "text": "Just had a great coffee at the new place downtown. The weather is so nice today! #blessed #35",
+      "is_golden": false
+    },
+    {
+      "doc_id": "d31",
+      "text": "Just had a great coffee at the new place downtown. The weather is so nice today! #blessed #31",
+      "is_golden": false
+    },
+    {
+      "doc_id": "d25",
+      "text": "Just had a great coffee at the new place downtown. The weather is so nice today! #blessed #25",
+      "is_golden": false
+    },
+    {
+      "doc_id": "d24",
+      "text": "Just had a great coffee at the new place downtown. The weather is so nice today! #blessed #24",
+      "is_golden": false
+    },
+    {
+      "doc_id": "d40",
+      "text": "Just had a great coffee at the new place downtown. The weather is so nice today! #blessed #40",
+      "is_golden": false
+    },
+    {
+      "doc_id": "d27",
+      "text": "Just had a great coffee at the new place downtown. The weather is so nice today! #blessed #27",
+      "is_golden": false
+    },
+    {
+      "doc_id": "d12",
+      "text": "Just had a great coffee at the new place downtown. The weather is so nice today! #blessed #12",
+      "is_golden": false
+    },
+    {
+      "doc_id": "d43",
+      "text": "Just had a great coffee at the new place downtown. The weather is so nice today! #blessed #43",
+      "is_golden": false
+    },
+    {
+      "doc_id": "d47",
+      "text": "Just had a great coffee at the new place downtown. The weather is so nice today! #blessed #47",
+      "is_golden": false
+    },
+    {
+      "doc_id": "d15",
+      "text": "Just had a great coffee at the new place downtown. The weather is so nice today! #blessed #15",
+      "is_golden": false
+    },
+    {
+      "doc_id": "d45",
+      "text": "Just had a great coffee at the new place downtown. The weather is so nice today! #blessed #45",
+      "is_golden": false
+    },
+    {
+      "doc_id": "d48",
+      "text": "Just had a great coffee at the new place downtown. The weather is so nice today! #blessed #48",
+      "is_golden": false
+    },
+    {
+      "doc_id": "d39",
+      "text": "Just had a great coffee at the new place downtown. The weather is so nice today! #blessed #39",
+      "is_golden": false
+    },
+    {
+      "doc_id": "d36",
+      "text": "Just had a great coffee at the new place downtown. The weather is so nice today! #blessed #36",
+      "is_golden": false
+    },
+    {
+      "doc_id": "d30",
+      "text": "Just had a great coffee at the new place downtown. The weather is so nice today! #blessed #30",
+      "is_golden": false
+    },
+    {
+      "doc_id": "d46",
+      "text": "Just had a great coffee at the new place downtown. The weather is so nice today! #blessed #46",
+      "is_golden": false
+    },
+    {
+      "doc_id": "d44",
+      "text": "Just had a great coffee at the new place downtown. The weather is so nice today! #blessed #44",
+      "is_golden": false
+    },
+    {
+      "doc_id": "d21",
+      "text": "Just had a great coffee at the new place downtown. The weather is so nice today! #blessed #21",
+      "is_golden": false
+    },
+    {
+      "doc_id": "d29",
+      "text": "Just had a great coffee at the new place downtown. The weather is so nice today! #blessed #29",
+      "is_golden": false
+    },
+    {
+      "doc_id": "d20",
+      "text": "Just had a great coffee at the new place downtown. The weather is so nice today! #blessed #20",
+      "is_golden": false
+    },
+    {
+      "doc_id": "d22",
+      "text": "Just had a great coffee at the new place downtown. The weather is so nice today! #blessed #22",
+      "is_golden": false
+    },
+    {
+      "doc_id": "d2",
+      "text": "So we're supposed to just blindly trust the new dietary guidelines? Last decade it was 'fat is bad', now it's 'carbs are bad'. I'll just trust my gut, thanks.",
+      "is_golden": true
+    },
+    {
+      "doc_id": "d11",
+      "text": "Just had a great coffee at the new place downtown. The weather is so nice today! #blessed #11",
+      "is_golden": false
+    },
+    {
+      "doc_id": "d32",
+      "text": "Just had a great coffee at the new place downtown. The weather is so nice today! #blessed #32",
+      "is_golden": false
+    },
+    {
+      "doc_id": "d13",
+      "text": "Just had a great coffee at the new place downtown. The weather is so nice today! #blessed #13",
+      "is_golden": false
+    },
+    {
+      "doc_id": "d42",
+      "text": "Just had a great coffee at the new place downtown. The weather is so nice today! #blessed #42",
+      "is_golden": false
+    },
+    {
+      "doc_id": "d9",
+      "text": "Just had a great coffee at the new place downtown. The weather is so nice today! #blessed #9",
+      "is_golden": false
+    },
+    {
+      "doc_id": "d34",
+      "text": "Just had a great coffee at the new place downtown. The weather is so nice today! #blessed #34",
+      "is_golden": false
+    },
+    {
+      "doc_id": "d28",
+      "text": "Just had a great coffee at the new place downtown. The weather is so nice today! #blessed #28",
+      "is_golden": false
+    },
+    {
+      "doc_id": "d3",
+      "text": "It's funny how the 'experts' always seem to find data that supports whatever the current administration wants to push. Must be a coincidence.",
+      "is_golden": true
+    },
+    {
+      "doc_id": "d7",
+      "text": "Just had a great coffee at the new place downtown. The weather is so nice today! #blessed #7",
+      "is_golden": false
+    },
+    {
+      "doc_id": "d16",
+      "text": "Just had a great coffee at the new place downtown. The weather is so nice today! #blessed #16",
+      "is_golden": false
+    },
+    {
+      "doc_id": "d41",
+      "text": "Just had a great coffee at the new place downtown. The weather is so nice today! #blessed #41",
+      "is_golden": false
+    },
+    {
+      "doc_id": "d10",
+      "text": "Just had a great coffee at the new place downtown. The weather is so nice today! #blessed #10",
+      "is_golden": false
+    },
+    {
+      "doc_id": "d5",
+      "text": "Just had a great coffee at the new place downtown. The weather is so nice today! #blessed #5",
+      "is_golden": false
+    }
+  ]
+}
