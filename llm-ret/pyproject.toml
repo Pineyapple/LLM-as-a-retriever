@@ -8,5 +8,15 @@ dependencies = [
     "datasets>=5.0.0",
     "matplotlib>=3.11.0",
     "numpy>=2.5.0",
+    "ollama>=0.6.2",
+    "torch>=2.11.0",
     "transformers>=5.13.0",
 ]
+
+[tool.uv.sources]
+torch = { index = "pytorch-cu128" }
+
+[[tool.uv.index]]
+name = "pytorch-cu128"
+url = "https://download.pytorch.org/whl/cu128"
+explicit = true
