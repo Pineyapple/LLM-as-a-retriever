@@ -22,7 +22,8 @@ p.add_argument("--domain", required=True,
                choices=["biology", "earth_science", "economics", "pony", "psychology",
                         "robotics", "stackoverflow", "sustainable_living", "ALL"])
 p.add_argument("--model", default="Qwen/Qwen3-4B-Instruct-2507")
-p.add_argument("--cache-dir", default="/ibex/user/hamidme/cache_dir")
+p.add_argument("--cache-dir", default=os.environ.get("HF_HOME", "./cache_dir"),
+               help="Hugging Face cache/download directory. Defaults to $HF_HOME or ./cache_dir.")
 p.add_argument("--queries", type=int, default=10, help="queries per domain (0 = all)")
 p.add_argument("--pool-size", type=int, default=100,
                help="0 = FULL CORPUS retrieval (every document scored, nothing injected). "
